@@ -1,0 +1,42 @@
+# 依赖目录
+node_modules/
+
+# 构建输出
+dist/
+build/
+
+# 测试覆盖率报告
+coverage/
+
+# IDE 和编辑器文件
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# 日志文件
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 环境变量文件
+.env
+.env.local
+.env.*.local
+
+# TypeScript 缓存
+*.tsbuildinfo
+
+# 临时文件
+temp_wallpaper.ps1
+*.tmp
+*.temp
+
+# npm 包文件
+*.tgz
+
+# 其他
+.cache/
+.npm/ 
